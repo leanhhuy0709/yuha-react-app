@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "client": "cd client\nnpm start",
+        "server": "cd server\nnode server.js"
+      }
+}
